@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.abc{
+	background-color: #79c2d0 !important; 
+}
+
+.control
+{
+	width:400px;
+	height:40px;
+	border-radius:10px;
+	padding:10px;
+	
+}
+.controldelete
+{
+	width:400px;
+	height:40px;
+	border-radius:10px;
+	padding:10px;
+}
+
+.formarea
+{
+	position:absolute;
+	top:150px;
+	left:400px;	
+	padding:15px;
+
+}
+
+.fuel-design
+{
+	position:absolute;
+	left:190px;
+	margin-top:-15px;
+	
+}
+
+
+
